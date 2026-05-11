@@ -1,4 +1,4 @@
-# 🍄 About
+# About
 Mycel Project aims to make continuous, curiosity-driven, long-term learning accessible to everyone, whether used as a standalone application or integrated into existing tools.
 ***
 **[Mycel](https://github.com/mycel-project/mycel/tree/master)** is the name of the open-source backend integrating all tools related to learning, scheduling, data collecting, and data processing.
