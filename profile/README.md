@@ -18,9 +18,9 @@ However, when it comes to transforming information and curiosity into structured
 
 ## Current Status
 
-Mycel Project is currently in a very early prototype stage, with many core features not yet implemented. It is open-source to encourage experimentation and the exchange of ideas. 
+Mycel Project is currently in a early prototype stage. It is open-source to encourage experimentation and the exchange of ideas. 
 
-**Please be aware that this is an experimental state: data may be unstable, and loss or unexpected behavior can occur. Major and breaking changes may also be introduced at any time. For now, this project should be seen more as an experimental playground for testing and improvement than as a stable, production-ready solution.**
+**Please be aware that this is an experimental state: data may be unstable, and loss or unexpected behavior can occur. Major and breaking changes may also be introduced at any time.**
 
 ## Sustainable Model
 
@@ -28,22 +28,7 @@ In the interest of transparency, it is important to clarify that the project may
 
 **No functionality is locked behind a paywall, and no core capabilities of the application or backend depend on proprietary components. The system remains fully usable through self-hosting at all times. There is no intention to control or restrict access to user data, and data ownership is fully respected.**
 
-The paid offering is intended purely as a facilitation layer, for users who prefer a managed, ready-to-use experience, while also helping support the long-term development and maintenance of the project.
-
-The underlying infrastructure for these hosted services may remain proprietary, but it does not restrict access to, or usage of, the open-source components of Mycel.
-
-## Roadmap
-
-The current high-level roadmap of Mycel is structured around progressive stabilization and migration of the system.
-
-- [ ] Release an early MVP of the Mycel backend in Python, available as a self-hosted option or experimental managed service, alongside an open-source basic Mycelium client for Windows, Linux, and Android
-- [ ] Iterate based on feedback and stabilize core learning workflows and overall system design
-- [ ] Gradually reimplement the backend in Rust for long-term architecture 
-- [ ] Transition toward an official Mycelium release with a bundled Rust backend (Windows, macOS, Linux, Android, iOS), while preserving support for both self-hosted and managed sync services (v1.0)
-- [ ] Evolve the ecosystem to support fully integrated in-app sync through the bundled backend
-- [ ] ...
-
 ## Acknowledgements
-This project is heavily inspired by [SuperMemo](https://www.super-memory.com/), a software developed by Piotr Wozniak and a pioneering application in the field of computer-assisted learning and spaced repetition, still actively maintained today. It implements the fundamental philosophy of Mycel, such as incremental learning and spaced repetition.
+This project implements the core philosophy pioneered by [SuperMemo](https://www.super-memory.com/), a software developed by Piotr Wozniak that introduced incremental learning and spaced repetition to computer-assisted education, and is still actively maintained today.
 
 The spaced repetition system incorporates [FSRS](https://github.com/open-spaced-repetition), an open-source project focused on spaced repetition algorithms.
