@@ -1,18 +1,18 @@
 # About
-Mycel Project aims to make continuous, curiosity-driven, long-term learning accessible to everyone, whether used as a standalone application or integrated into existing tools.
+Mycel Project aims to make continuous, curiosity-driven, lifelong learning accessible to everyone, whether used as a standalone application or integrated into existing tools.
 ***
 **[Mycel](https://github.com/mycel-project/mycel/tree/master)** is the name of the open-source backend integrating all tools related to learning, scheduling, data collecting, and data processing.
 
 **[Mycelium](https://github.com/mycel-project/mycelium)** is the official frontend, designed to integrate Mycel’s features in the most seamless way possible, with support for all major platforms.
 
 ## Mission & Direction
-The mission of this project is to address a key gap in modern learning tools: while access to information is abundant, long-term learning remains poorly supported.
+The mission of this project is to address a key gap in modern learning tools: while access to information is abundant, lifelong learning remains poorly supported.
 
 - Read-it-later apps (such as Omnivore or Wallabag) are great for collecting information.
 - Flashcard applications (such as Anki) are great for memorization.
 - PKM tools like Obsidian or Logseq are great for storing knowledge and reflection.
 
-However, when it comes to transforming information and curiosity into structured, long-term understanding and learning, existing solutions are either limited, fragmented, or closed.
+However, when it comes to transforming information and curiosity into structured, lifelong understanding and learning, existing solutions are either limited, fragmented, or closed.
 
 **Mycel Project aims to fill this gap by creating a missing system for continuous learning, both as a fully open-source, optimized standalone application, and as a backend designed to integrate with existing tools such as PKM systems, when supported through APIs.**
 
